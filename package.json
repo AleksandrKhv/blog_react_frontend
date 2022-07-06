@@ -2,7 +2,7 @@
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://khvashchevski-blog-mern.herokuapp.com/",
+  "proxy": "https://khvashchevski-blog-mern.herokuapp.com",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
